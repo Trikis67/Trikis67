@@ -56,7 +56,7 @@ Catálogo de playeras con filtros por marca y talla, carrito que arma el pedido 
 ### 🛠 [Este portafolio · Taller 3D](https://github.com/Trikis67/portafolio)
 Un taller en 3D con Three.js donde el scroll guía la cámara por cada sección. Tiene cinco mundos (taller, cine, computadora 2000, hacker y oeste), cada uno con su intro, sus sonidos y su ropa para el perro del logo. **[Visitarlo →](https://trikis.nl)**
 
-<p align="center"><img src="img/taller.gif" alt="Recorrido por el taller 3D y sus cinco mundos" width="100%"></p>
+<p align="center"><img src="anim/portafolio.svg" alt="Animación de mi portafolio pasando por sus cinco mundos: taller, cine, computadora, hacker y oeste" width="100%"></p>
 
 `Three.js` `JavaScript` `Web Audio`
 
