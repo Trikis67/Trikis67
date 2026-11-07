@@ -28,43 +28,35 @@ Soy **Luis Gabriel Solís García**, estudiante de primer año de **Ingeniería 
 ### 📡 [Triki Radar](https://github.com/Trikis67/Proyecto-con-ia-integrado) · licitaciones públicas con IA
 Vigila Guatecompras dos veces al día, detecta cada cambio en las convocatorias, lee las bases en PDF con IA y le dice a cada empresa en cuáles le conviene ofertar y por qué. **[Verlo en vivo →](https://radar.trikis.nl)**
 
-<p align="center"><img src="https://raw.githubusercontent.com/Trikis67/Proyecto-con-ia-integrado/main/docs/capturas/panel.jpg" alt="Panel de licitaciones de Triki Radar" width="88%"></p>
+<p align="center"><img src="anim/radar.svg" alt="Animación del panel de licitaciones de Triki Radar" width="100%"></p>
 
 `Next.js 16` `TypeScript` `Supabase` `API de Claude` `GitHub Actions`
 
 ### ⚡ [Optimizador para Windows](https://github.com/Trikis67/Optimizador) · app de escritorio
 Muestra qué ocupa espacio, vigila CPU, memoria, GPU, disco y red en tiempo real, limpia archivos temporales y aplica ajustes que se pueden deshacer. **[Descargar →](https://github.com/Trikis67/Optimizador/releases/latest)**
 
-<p align="center"><img src="https://raw.githubusercontent.com/Trikis67/Optimizador/main/docs/capturas/monitor.png" alt="Monitor del Optimizador" width="88%"></p>
+<p align="center"><img src="anim/optimizador.svg" alt="Animación del monitor del Optimizador" width="100%"></p>
 
 `Rust` `Tauri 2` `JavaScript`
 
 ### 📅 [Agenda de citas por WhatsApp](https://github.com/Trikis67/Agenda-de-citas-por-whatsapp) · bot para negocios
 El cliente escribe «hola», elige servicio, día y hora, y la cita queda en el Google Calendar del encargado. Avisa al encargado y manda un recordatorio antes de la cita.
 
-<table align="center"><tr>
-<td><img src="https://raw.githubusercontent.com/Trikis67/Agenda-de-citas-por-whatsapp/main/docs/img/1-menu.svg" alt="Menú del bot" width="220"></td>
-<td><img src="https://raw.githubusercontent.com/Trikis67/Agenda-de-citas-por-whatsapp/main/docs/img/2-horarios.svg" alt="Horarios libres" width="220"></td>
-<td><img src="https://raw.githubusercontent.com/Trikis67/Agenda-de-citas-por-whatsapp/main/docs/img/3-confirmacion.svg" alt="Cita confirmada" width="220"></td>
-</tr></table>
+<p align="center"><img src="anim/agenda.svg" alt="Animación del bot: chat, cita en Google Calendar y avisos" width="100%"></p>
 
 `Node.js` `WhatsApp Cloud API` `Google Calendar API`
 
 ### 🛍️ [El Rack de las Playeras](https://elrackdelasplayerasgt.lat) · tienda en línea con panel
 Catálogo de playeras con filtros por marca y talla, carrito que arma el pedido por WhatsApp y un [panel de administración](https://github.com/Trikis67/catalogo) para subir productos con varias fotos y tallas.
 
+<p align="center"><img src="anim/rack.svg" alt="Animación de la tienda: carrito y pedido por WhatsApp" width="100%"></p>
+
 `JavaScript` `Supabase` `GitHub Pages`
 
 ### 🛠 [Este portafolio · Taller 3D](https://github.com/Trikis67/portafolio)
 Un taller en 3D con Three.js donde el scroll guía la cámara por cada sección. Tiene cinco mundos (taller, cine, computadora 2000, hacker y oeste), cada uno con su intro, sus sonidos y su ropa para el perro del logo. **[Visitarlo →](https://trikis.nl)**
 
-<table align="center"><tr>
-<td width="50%"><img src="img/c-kraft.jpg" alt="Mundo taller"></td>
-<td width="50%"><img src="img/c-oeste.jpg" alt="Mundo oeste"></td>
-</tr><tr>
-<td width="50%"><img src="img/c-cine.jpg" alt="Mundo cine"></td>
-<td width="50%"><img src="img/c-radar.jpg" alt="Tarjeta de Triki Radar con su radar 3D"></td>
-</tr></table>
+<p align="center"><img src="img/taller.gif" alt="Recorrido por el taller 3D y sus cinco mundos" width="100%"></p>
 
 `Three.js` `JavaScript` `Web Audio`
 
