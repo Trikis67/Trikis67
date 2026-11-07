@@ -32,12 +32,12 @@ Vigila Guatecompras dos veces al día, detecta cada cambio en las convocatorias,
 
 `Next.js 16` `TypeScript` `Supabase` `API de Claude` `GitHub Actions`
 
-### ⚡ [Optimizador para Windows](https://github.com/Trikis67/Optimizador) · app de escritorio
-Muestra qué ocupa espacio, vigila CPU, memoria, GPU, disco y red en tiempo real, limpia archivos temporales y aplica ajustes que se pueden deshacer. **[Descargar →](https://github.com/Trikis67/Optimizador/releases/latest)**
+### ⚡ [Optimizador para Windows · por Trikis](https://github.com/Trikis67/Optimizador) · app de escritorio · v0.3
+Vigila CPU, memoria, GPU, disco y red en tiempo real, revisa la **salud del sistema** (discos, batería, pantallazos azules), limpia **drivers viejos** que pueden ocupar decenas de GB y optimiza para gaming o PCs de pocos recursos. Todo se puede deshacer y queda en un **historial**. Trae su propio instalador en español. **[Descargar v0.3 →](https://github.com/Trikis67/Optimizador/releases/latest)**
 
 <p align="center"><img src="anim/optimizador.svg" alt="Animación del monitor del Optimizador" width="100%"></p>
 
-`Rust` `Tauri 2` `JavaScript`
+`Rust` `Tauri 2` `JavaScript` `NSIS`
 
 ### 📅 [Agenda de citas por WhatsApp](https://github.com/Trikis67/Agenda-de-citas-por-whatsapp) · bot para negocios
 El cliente escribe «hola», elige servicio, día y hora, y la cita queda en el Google Calendar del encargado. Avisa al encargado y manda un recordatorio antes de la cita.
