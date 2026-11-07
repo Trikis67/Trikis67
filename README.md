@@ -35,7 +35,7 @@ Vigila Guatecompras dos veces al día, detecta cada cambio en las convocatorias,
 ### ⚡ [Optimizador para Windows · por Trikis](https://github.com/Trikis67/Optimizador) · app de escritorio · v0.3
 Vigila CPU, memoria, GPU, disco y red en tiempo real, revisa la **salud del sistema** (discos, batería, pantallazos azules), limpia **drivers viejos** que pueden ocupar decenas de GB y optimiza para gaming o PCs de pocos recursos. Todo se puede deshacer y queda en un **historial**. Trae su propio instalador en español. **[Descargar v0.3 →](https://github.com/Trikis67/Optimizador/releases/latest)**
 
-<p align="center"><img src="anim/optimizador.svg" alt="Animación del monitor del Optimizador" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Trikis67/Optimizador/main/docs/capturas/recorrido.gif" alt="Recorrido por las secciones del Optimizador v0.3" width="100%"></p>
 
 `Rust` `Tauri 2` `JavaScript` `NSIS`
 
