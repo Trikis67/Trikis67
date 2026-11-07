@@ -10,7 +10,7 @@
 
 ## 👋 Hola, soy Gabriel
 
-Soy **Luis Gabriel Solís García**, estudiante de primer año de **Ingeniería en Ciencias y Sistemas en la USAC** (Guatemala). Construyo cosas que la gente usa de verdad: tiendas en línea que venden por WhatsApp, bots que agendan citas, una app de escritorio para optimizar Windows y un radar de licitaciones públicas con IA. Fuera del código me gustan las películas, las series y los videojuegos.
+Soy **Luis Gabriel Solís García**, estudiante de primer año de **Ingeniería en Ciencias y Sistemas en la USAC** (Guatemala). Construyo cosas que la gente usa de verdad: tiendas en línea que venden por WhatsApp, bots que agendan citas, apps de escritorio (un optimizador para Windows y un reproductor de música) y un radar de licitaciones públicas con IA. Fuera del código me gustan las películas, las series y los videojuegos.
 
 - 🔭 **Ahora mismo:** mejorando [Triki Radar](https://radar.trikis.nl), un radar de licitaciones de Guatecompras con IA.
 - 🌱 **Aprendiendo:** Rust, Next.js y la API de Claude.
@@ -31,6 +31,13 @@ Vigila Guatecompras dos veces al día, detecta cada cambio en las convocatorias,
 <p align="center"><img src="anim/radar.svg" alt="Animación del panel de licitaciones de Triki Radar" width="100%"></p>
 
 `Next.js 16` `TypeScript` `Supabase` `API de Claude` `GitHub Actions`
+
+### 🎧 [Tk Play](https://github.com/Trikis67/Tk-Play) · reproductor de música de escritorio
+Un reproductor con interfaz propia para **YouTube Music** y **Spotify**: toma los colores de cada carátula, muestra la **letra sincronizada** estilo karaoke, tiene ecualizador de 10 bandas y una tienda con **más de 100 temas, mods, mascotas y extensiones**. Se conecta con Discord y las teclas multimedia. **[Descargar →](https://github.com/Trikis67/Tk-Play/releases/latest)**
+
+<p align="center"><img src="https://raw.githubusercontent.com/Trikis67/Tk-Play/main/docs/screenshots/demo.gif" alt="Demostración de Tk Play" width="100%"></p>
+
+`Electron` `TypeScript` `Spotify SDK` `YouTube Music` `Web Audio`
 
 ### ⚡ [Optimizador para Windows · por Trikis](https://github.com/Trikis67/Optimizador) · app de escritorio · v0.3
 Vigila CPU, memoria, GPU, disco y red en tiempo real, revisa la **salud del sistema** (discos, batería, pantallazos azules), limpia **drivers viejos** que pueden ocupar decenas de GB y optimiza para gaming o PCs de pocos recursos. Todo se puede deshacer y queda en un **historial**. Trae su propio instalador en español. **[Descargar v0.3 →](https://github.com/Trikis67/Optimizador/releases/latest)**
@@ -74,6 +81,7 @@ Un taller en 3D con Three.js donde el scroll guía la cámara por cada sección.
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/API_de_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="API de Claude">
